@@ -1,4 +1,4 @@
-# mullr_website
+# Personal Website
 
 Website to display all my past work
 
